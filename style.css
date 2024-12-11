@@ -1,0 +1,42 @@
+.main{
+    display: block;
+}
+
+*{
+    font-family: Nunito;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    height: 200px;
+    font-family: Nunito;
+    margin-left: 80px;
+    margin-top: 90px;
+
+}
+h1{
+    font-size: 88px;
+}
+
+p{
+    font-size: 26px;
+    width: 526px;
+}
+
+button{
+    background-color: black;
+    color: white;
+    width: 157px;
+    border-radius: 16px;
+    height: 50px;
+}
+
+.img{
+    display: flex;
+    margin-top: 100px;
+  margin-left: 80px;
+  margin-right: auto;
+  width: 1312px;
+  padding: 5px;
+}
